@@ -1,8 +1,14 @@
                                               BANK OF IIITL
+                                              
+ This is a simple project which simulates the working of a bank and an ATM. This was a group project created for our Advanced Programming Language subject.
+ 
+ The project code is mainly in Java and has used MySql as the database. The database has been connected to using JDBC .
+ 
+ This also applies java socket programming to generate and OTP and an email for every transaction made. This makes the overall process more secure.
+ 
+ 
                                                                        
   Requirements to run the project :-
-
-
 
 1.The user needs to have a MySQL environment set up. The database changes that our project makes are reflected on a table which is present in a Mysql Database.
 
