@@ -1,4 +1,4 @@
-                                                                       BANK OF IIITL
+                                              BANK OF IIITL
                                                                        
   Requirements to run the project :-
 
